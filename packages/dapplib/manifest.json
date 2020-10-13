@@ -1,0 +1,18 @@
+{
+    "name": "agaw3whd",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "DVD",
+        "/category/asset_value_tracking/token/symbol": "AKBKV",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "12242154",
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "single"
+    }
+}
